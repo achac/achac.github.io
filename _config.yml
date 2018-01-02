@@ -7,8 +7,8 @@ author: Johnny Bravo                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   Hello 911 emergency, there's a handsome guy in my house!
   Oh wait a second, cancel that. It's only me.
-slogan: 网页设计与制作                       # used in site header, beside title
-avatar: /i/avatar.png                       # used as portrait in site header
+slogan: 个人学习网站                      # used in site header, beside title
+avatar: /i/pq.png                        # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
 url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
 baseurl: ''                                 # prepended to all absolute filepaths
