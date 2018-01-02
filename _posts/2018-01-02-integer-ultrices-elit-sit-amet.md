@@ -1,7 +1,7 @@
 ---
-title: Integer Ultricies, Elit Sit Amet
-teaser: Aliquet semper, diam odio sollicitudin ante.
-category: lacinia
+title: 学习网页设计与制作的心得体会与学习笔记
+teaser:
+
 tags: [posuere, odio, vestibulum]
 ---
 
