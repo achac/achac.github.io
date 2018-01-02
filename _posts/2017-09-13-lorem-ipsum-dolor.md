@@ -8,7 +8,7 @@ tags: [posuere, ]
 徒然喜欢你
 --------------------------------------
 
-<!doctype html>
+
 <!-- 网上找的图 -->
 <html class="no-js" lang="en">
 	<head>
@@ -25,7 +25,7 @@ tags: [posuere, ]
 		</div>
 		<div class="IntroWrapper">
 			<p class="IntroText">来，张嘴吃粮。
-		            <!-- 根据http://bangumi.bilibili.com/anime/6312/play#113295 -->
+		            <!-- 根据https://www.bilibili.com/bangumi/play/ep113295 -->
 			    <embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="https://static-s.bilibili.com/miniloader.swf" 
 			</div>
 		</div>
@@ -51,5 +51,4 @@ tags: [posuere, ]
 			    <li>第11话 调音</li>
 			</ol>
 		</div>
-	</body>
-</html>
+	
