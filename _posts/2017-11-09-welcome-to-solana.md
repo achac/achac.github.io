@@ -1,7 +1,7 @@
 ---
 title: 信息可视化作品展示
 teaser: 我国部分常见废弃物的排放情况与处理情况
-category:tableau
+category: tableau
 tags: [posuere, ]
 ---
 
