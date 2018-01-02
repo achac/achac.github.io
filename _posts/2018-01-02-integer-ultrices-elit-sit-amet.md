@@ -1,6 +1,6 @@
 ---
 title: 网页设计与制作的学习笔记
-teaser:
+teaser: learning
 
 tags: [posuere, odio, vestibulum]
 ---
