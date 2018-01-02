@@ -1,5 +1,5 @@
 ---
-title: 学习网页设计与制作的心得体会与学习笔记
+title: 网页设计与制作的学习笔记
 teaser:
 
 tags: [posuere, odio, vestibulum]
