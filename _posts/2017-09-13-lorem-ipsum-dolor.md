@@ -1,7 +1,7 @@
 ---
 title: 网页设计个人作品
 teaser: 
-category: 作品集
+category: works
 tags: [posuere, ]
 ---
 
