@@ -1,7 +1,7 @@
 ---
 title: 网页设计与制作的学习笔记
 teaser: 
-category： learning
+category: learning
 tags: [posuere, odio, vestibulum]
 ---
 
