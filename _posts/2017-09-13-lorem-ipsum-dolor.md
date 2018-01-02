@@ -8,12 +8,12 @@ tags: [posuere, ]
 徒然喜欢你
 --------------------------------------
 
-<!d
+<!doctype html>
 <!-- 网上找的图 -->
 <html class="no-js" lang="en">
 	<head>
 		<meta charset="utf-8">
-		
+		<title>徒然喜欢你</title>
 		<meta name="description" content="来，张嘴吃粮">
 		<meta name="viewport" content="width=device-width">
 		<link rel="stylesheet" href="css/styles.css">
