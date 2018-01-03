@@ -19,7 +19,7 @@ repo: https://github.com/achac/achac.github.io # used in footer
 nav_menu:
   
   - name: Projects
-    url: projects/
+    url: /projects
     icon: /i/icons.svg#portfolio
   - name: GitHub
     url: https://github.com/achac
