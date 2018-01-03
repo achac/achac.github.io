@@ -1,7 +1,7 @@
 ---
-title: 信息可视化作品展示
-teaser: 我国部分常见废弃物的排放情况与处理情况
-category: tableau
+title: 网页设计个人作品
+teaser: 
+category: works
 tags: [首页, ]
 ---
 
@@ -26,7 +26,8 @@ tags: [首页, ]
 		<div class="IntroWrapper">
 			<p class="IntroText">来，张嘴吃粮。
 		            <!-- 根据https://www.bilibili.com/bangumi/play/ep113295 -->
-			    
+			    <embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="https://static-s.bilibili.com/miniloader.swf" 
+			</div>
 		</div>
 		<div class="Ingredients">
 			<h3 class="SubHeader">徒然喜欢你是什么？</h3>
