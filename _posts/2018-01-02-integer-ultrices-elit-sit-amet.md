@@ -1,12 +1,25 @@
 ---
-title: 网页设计与制作的学习笔记
+title: 个人的心得与学习笔记
 teaser: 
 category: learning
 tags: [posuere, odio, vestibulum]
 ---
-c
+网页设计与制作笔记
 
-Sed tempus nulla justo aliquam urna. Nulla nec ex in mauris euismod consectetur et vel felis. Curabitur vel hendrerit mauris. Nulla tincidunt massa a tempus commodo. In tempor tristique lectus, vel venenatis ipsum pharetra eu. Nam ac odio congue, dapibus sapien eu, pharetra nisi.
+*如何使用CSS缩放图片
+1.创建一个CSS文件并将其链接到HTML页面的头部
+2.加入代码: img(max-width:100%)
+
+*页面结构语义有：Header,navigation,main,aside,footer
+*内容语义有：Article,aside,details,figure,figcaption,mark,section,summary,time,canvas,video,audio,svg
+
+*页面元素重要性排序
+第一：页面标题
+第二：页面顶部的主要标题
+第三：页面前几段内容
+第四：连接到其他页面的文字
+第五：页面上所有相关图形的替代文字
+第六：HTML文件名以及网站目录上的名字
 
 Nullam sagittis mi ut purus porta convallis. Maecenas nec orci vel urna ullamcorper varius ut a sem. Nulla ultricies at odio id gravida. Sed ac volutpat sapien, quis dignissim nisi. Sed id aliquet sem. Fusce aliquet hendrerit dui, eget egestas risus molestie eu. Vestibulum lobortis pretium magna sit amet aliquam.
 
