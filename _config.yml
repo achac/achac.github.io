@@ -19,7 +19,7 @@ repo: https://github.com/rlue/jekyll-solana # used in footer
 nav_menu:
   
   - name: Projects
-    url: /projects
+    url: https://achac.github.io/posts/2017-11-09-tableau
     icon: /i/icons.svg#portfolio
   - name: GitHub
     url:https://github.com/achac
