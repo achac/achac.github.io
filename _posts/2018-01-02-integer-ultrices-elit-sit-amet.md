@@ -4,14 +4,14 @@ teaser:
 category: learning
 tags: [posuere, odio, vestibulum]
 ---
-####网页设计与制作笔记
+#### 网页设计与制作笔记
 
 * 如何使用CSS缩放图片
     1. 创建一个CSS文件并将其链接到HTML页面的头部
     2. 加入代码: img(max-width:100%)
 
 * 页面结构语义有：Header,navigation,main,aside,footer
-    * 内容语义有：Article,aside,details,figure,figcaption,mark,section,summary,time,canvas,video,audio,svg
+* 内容语义有：Article,aside,details,figure,figcaption,mark,section,summary,time,canvas,video,audio,svg
 
 * 页面元素重要性排序：
     第一：页面标题
