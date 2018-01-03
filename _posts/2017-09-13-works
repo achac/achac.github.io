@@ -5,7 +5,7 @@ category: works
 tags: [首页 ]
 ---
 
-徒然喜欢你
+徒然喜欢你--一部甜到齁的番
 --------------------------------------
 
 
@@ -26,8 +26,7 @@ tags: [首页 ]
 		<div class="IntroWrapper">
 			<p class="IntroText">来，张嘴吃粮。
 		            <!-- 根据https://www.bilibili.com/bangumi/play/ep113295 -->
-			    <embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="https://static-s.bilibili.com/miniloader.swf" 
-			</div>
+			    
 		</div>
 		<div class="Ingredients">
 			<h3 class="SubHeader">徒然喜欢你是什么？</h3>
