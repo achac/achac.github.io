@@ -22,7 +22,7 @@ nav_menu:
     url: https://achac.github.io/posts/2017-11-09-tableau
     icon: /i/icons.svg#portfolio
   - name: GitHub
-    url:https://github.com/achac
+    url: https://github.com/achac
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: Contact
