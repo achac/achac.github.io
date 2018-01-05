@@ -7,6 +7,7 @@ author: Johnny Bravo                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   Hello 911 emergency, there's a handsome guy in my house!
   Oh wait a second, cancel that. It's only me.
+affiliation: "中山大学南方学院 <a href = 'http://wcy.nfu.edu.cn/zh/教学教务/培养方案/网络与新媒体/'>网络与新媒体</a> 培养方案核心课程学期作品，由 <a href='http://wcy.nfu.edu.cn/zh/学院概况/师资队伍/廖汉腾/'>廖汉腾副教授</a> 指导"
 slogan: 个人学习网站                      # used in site header, beside title
 avatar: /i/avatar.png                        # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
