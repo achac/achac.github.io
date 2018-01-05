@@ -27,11 +27,8 @@ nav_menu:
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: Contact
-    <form method="POST" action="http://formspree.io/1753407661@qq.com">
-  <input type="email" name="email" placeholder="Your email">
-  <textarea name="message" placeholder="Your message"></textarea>
-  <button type="submit">Send</button>
-</form>
+    url:https://weibo.com/3612479145/profile?rightmod=1&wvr=6&mod=personinfo
+    icon: /i/icons.svg#email 
 
 # Objects listed here will appear on the /projects.html page.
 projects:
