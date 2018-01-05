@@ -28,9 +28,9 @@ nav_menu:
     outbound: true      # this key sets a link to open in a new window.
   - name: Contact
     <form  action="http://formspree.io/1753407661@qq.com method="POST">
-  <input type="text" name="name"> 
-  <input type="email" name="-replayto">
-  <input type="submit" value="send">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
 </form>
 
 # Objects listed here will appear on the /projects.html page.
