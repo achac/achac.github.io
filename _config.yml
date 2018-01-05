@@ -27,8 +27,11 @@ nav_menu:
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: Contact
-    url: https://email.com/rule/
-    icon: /i/icons.svg#email
+    <form  action="http://formspree.io/1753407661@qq.com method="POST">
+  <input type="text" name="name"> 
+  <input type="email" name="-replayto">
+  <input type="submit" value="send">
+</form>
 
 # Objects listed here will appear on the /projects.html page.
 projects:
