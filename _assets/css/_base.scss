@@ -50,7 +50,7 @@ code {
   @include underline($solarized_yellow);
   background-color: $solarized_base3;
   padding: 0.0625em 0.25em;
-  font-size: 0.625em;
+  font-size: 0.875em;
   border-radius: 0.25rem;
 
   @include tablet-portrait-up { white-space: nowrap; } // wrap on small screens
