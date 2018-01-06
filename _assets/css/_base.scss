@@ -62,7 +62,7 @@ pre { // code blocks
 
    /* Copyright text */ 
  	.copyright { 
- 		@include font-size(12); 
+ 		@include font-size(12px); 
  		color: lighten($black,60); 
  		a { 
  			text-decoration: none; 
