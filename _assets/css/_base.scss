@@ -68,8 +68,8 @@ pre { // code blocks
     color: inherit;
     background-color: transparent;
     border: none;
-  }
-
+}
+}
 
 blockquote {
   @include fontface(serif);
@@ -88,3 +88,4 @@ blockquote {
 
   a:visited { @include underline($solarized_base3); }
 
+}
