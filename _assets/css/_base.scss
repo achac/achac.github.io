@@ -60,6 +60,20 @@ pre { // code blocks
   @include inset;
   font-size: 0.875rem;
 
+   /* Copyright text */ 
+ 	.copyright { 
+ 		@include font-size(12); 
+ 		color: lighten($black,60); 
+ 		a { 
+ 			text-decoration: none; 
+ 		} 
+ 	} 
+ } 
+ 
+ 
+ 
+ 
+
   code { // override inline <code> rules
     padding: 0;
     font-size: inherit;
