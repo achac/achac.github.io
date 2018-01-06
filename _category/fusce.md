@@ -1,3 +1,3 @@
 ---
-title: 📂 tableau展示
+title: 📂 tableau
 ---
