@@ -64,10 +64,7 @@
       {{ content }}
 
       <hr>
-      <footer class="colophon colophon--{{ page_type }}">
-        <span class="colophon__statement">This blog is powered by Jekyll.</span>
-        <span class="colophon__statement"><a href="{{ site.repo }}" target="_blank">Source code</a> available under the MIT License.</span>
-        <span class="colophon__statement">All original writing licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>.</span>
+     <p class="copyright">{{ site.affiliation }}  <br/> &#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a> powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> + <a href="http://mmistakes.github.io/skinny-bones-jekyll/" rel="nofollow">Skinny Bones</a>.</p> 
       </footer>
     </div>
 
