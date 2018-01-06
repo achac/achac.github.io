@@ -18,7 +18,9 @@ repo: https://github.com/achac/achac.github.io # used in footer
 # Objects listed here will appear in the main nav menu.
 # Exceeding four items may cause problems on the desktop (>900px wide) layout.
 nav_menu:
-  
+  - name: Posts
+    url: /
+    icon: /i/icons.svg#posts # icons should be 24x24 px.
   - name: Projects
     url: /projects
     icon: /i/icons.svg#portfolio
