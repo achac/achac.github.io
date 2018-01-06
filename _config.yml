@@ -11,7 +11,7 @@ affiliation: "中山大学南方学院 <a href = 'http://wcy.nfu.edu.cn/zh/教�
 slogan: 个人学习网站                      # used in site header, beside title
 avatar: /i/avatar.png                        # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
-url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
+url: https://achac.github.io/              # used by plugins to generate feed.xml and sitemap.xml
 baseurl: ''                                 # prepended to all absolute filepaths
 repo: https://github.com/achac/achac.github.io # used in footer
 
