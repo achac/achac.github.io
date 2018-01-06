@@ -43,7 +43,7 @@ layout: default
         {% if item.teaser %} <div class="{{ item_type }}__entry-teaser {{ item_type }}__entry-teaser--{{ page_type }}">{{ item.teaser }}</div> {% endif %}
         </div>
         <div class="titles">
-          {% for post in site.category.infovis %}
+          {% for post in site.category.tableau %}
           {% include post-grid.html %}
           {% endfor %}
           </div>
