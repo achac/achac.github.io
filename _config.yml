@@ -18,9 +18,7 @@ repo: https://github.com/achac/achac.github.io # used in footer
 # Objects listed here will appear in the main nav menu.
 # Exceeding four items may cause problems on the desktop (>900px wide) layout.
 nav_menu:
-  - name: Posts
-    url: https://achac.github.io/posts/
-    icon: /i/icons.svg#posts # icons should be 24x24 px.
+  
   - name: Projects
     url: /projects
     icon: /i/icons.svg#portfolio
@@ -35,14 +33,19 @@ nav_menu:
 # Objects listed here will appear on the /projects.html page.
 projects:
   
-  - title: 信息可视化作品展示
+  - title: 信息可视化期末作品展示
+    teaser: 部分国外品牌与国产品牌在我国的分布情况
+    url: https://achac.github.io/infovis/
+    role: December 30th, 2017
+    category: tableau
+  - title: 信息可视化期中作品展示
     teaser: 我国部分常见废弃物的排放情况与处理情况
-    url: https://achac.github.io/posts/2017-11-09-tableau
-    role: January 1st, 2018
-    category: learning
-  - title: 网页设计个人作品
+    url: https://achac.github.io/infovis/qizhong/
+    role: November 5th, 2017 
+    category: tableau
+ - title: 网页设计个人作品
     teaser: 
-    url: https://achac.github.io/posts/2017-09-13-works
+    url: https://achac.github.io/portfolio/
     role: September 13th, 2017 
     category: works
 #################
