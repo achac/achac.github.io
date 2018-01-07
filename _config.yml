@@ -19,7 +19,7 @@ repo: https://github.com/achac/achac.github.io # used in footer
 # Exceeding four items may cause problems on the desktop (>900px wide) layout.
 nav_menu:
   - name: Posts
-    url: https://achac.github.io/category/learning
+    url: https://achac.github.io/posts/
     icon: /i/icons.svg#posts # icons should be 24x24 px.
   - name: Projects
     url: /projects
